@@ -1,4 +1,6 @@
 #include<flightwave.h>
+#include<iostream>
+#include <string>
 
 int main() 
 {
@@ -32,6 +34,8 @@ int main()
 
     producer.join();
     consumer.join();
-
+    
+    std::cin.get(); 
+    
     return 0;
 }
