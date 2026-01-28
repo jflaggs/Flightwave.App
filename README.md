@@ -1,2 +1,2 @@
-# Flightwave.Support
-Support library for flightwave (interview)
+# Flightwave.App
+Flightwave application project (interview)
